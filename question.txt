@@ -1,3 +1,5 @@
 What is your name?
+<<<<<<< HEAD
 Patrick: Nice to meet you Kathy.
 Patrick: Are you enjoying this course?
+Final version
